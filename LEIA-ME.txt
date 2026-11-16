@@ -1,0 +1,15 @@
+BELEZA LUANDA · loja de maquilhagem (PHP + MySQL)
+
+INSTALAR
+1. Importa sql/database.sql no MySQL (phpMyAdmin > Importar).
+2. Abre config.php: coloca o teu número de WhatsApp, Instagram e os dados do MySQL.
+3. Copia a pasta para o servidor (htdocs no XAMPP) e abre no navegador.
+   Alternativa: dentro da pasta, php -S localhost:8000
+
+FOTOS DOS PRODUTOS
+Guarda cada foto em assets/img/produtos/ com o nome indicado em LISTA-DE-FOTOS.txt
+(ex.: base-liquida-hd-jackelin.jpg). O site usa a foto automaticamente.
+Sem foto, o cartão mostra um fundo colorido com um ícone.
+
+PEDIDOS
+SELECT * FROM orders;  e  SELECT * FROM order_items;

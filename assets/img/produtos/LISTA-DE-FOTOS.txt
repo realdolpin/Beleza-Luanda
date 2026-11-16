@@ -1,0 +1,34 @@
+Nome do ficheiro de cada foto (jpg, png ou webp):
+
+primer-facial.jpg   <- Primer Facial
+base-liquida-hd-jackelin.jpg   <- Base Líquida HD Jackelin
+base-colour-director-hd.jpg   <- Base Colour Director HD
+corretivo-liquido.jpg   <- Corretivo Líquido
+po-compacto.jpg   <- Pó Compacto
+po-solto-flawless-ivy.jpg   <- Pó Solto Flawless Ivy
+po-banana.jpg   <- Pó Banana
+blush.jpg   <- Blush
+contorno.jpg   <- Contorno
+iluminador.jpg   <- Iluminador
+spray-fixador-kiss-beauty.jpg   <- Spray Fixador Kiss Beauty
+paleta-de-sombras.jpg   <- Paleta de Sombras
+delineador-em-gel-miss-rose.jpg   <- Delineador em Gel Miss Rose
+lapis-de-olho.jpg   <- Lápis de Olho
+mascara-de-cilios-rimel.jpg   <- Máscara de Cílios / Rímel
+cilios-posticos.jpg   <- Cílios Postiços
+cola-para-cilios.jpg   <- Cola para Cílios
+lapis-de-sobrancelha.jpg   <- Lápis de Sobrancelha
+gel-de-sobrancelha-sheglam.jpg   <- Gel de Sobrancelha SHEGLAM
+batom-liquido-matte-miss-look.jpg   <- Batom Líquido Matte Miss Look
+batom-cremoso.jpg   <- Batom Cremoso
+lip-gloss.jpg   <- Lip Gloss
+lapis-labial.jpg   <- Lápis Labial
+lip-balm-hidratante.jpg   <- Lip Balm Hidratante
+kit-10-pinceis.jpg   <- Kit 10 Pincéis
+pincel-kabuki.jpg   <- Pincel Kabuki
+pincel-duplo-corretivo.jpg   <- Pincel Duplo Corretivo
+esponja-beauty-blender.jpg   <- Esponja Beauty Blender
+kit-esponjas-puff.jpg   <- Kit Esponjas + Puff
+kit-iniciante.jpg   <- Kit Iniciante
+kit-completo-profissional.jpg   <- Kit Completo Profissional
+kit-noiva.jpg   <- Kit Noiva
